@@ -1,5 +1,5 @@
 Master have added this.
-email : abc@gmail.com
-number : 9879879879
+email: abc@gmail.com
+number: 9879879879
 #Jira001 - Need to add more details
-name : 
+name: Abc Paul
